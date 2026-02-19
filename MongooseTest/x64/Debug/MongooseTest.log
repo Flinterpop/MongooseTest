@@ -1,0 +1,8 @@
+﻿  MongooseTest.cpp
+  mongoose.c
+C:\source_web\MongooseTest\MongooseTest\mongoose\mongoose.c(10403,37): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\source_web\MongooseTest\MongooseTest\mongoose\mongoose.c(10406,35): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\source_web\MongooseTest\MongooseTest\mongoose\mongoose.c(10553,39): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\source_web\MongooseTest\MongooseTest\mongoose\mongoose.c(10556,35): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\source_web\MongooseTest\MongooseTest\mongoose\mongoose.c(11002,39): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  MongooseTest.vcxproj -> C:\source_web\MongooseTest\x64\Debug\MongooseTest.exe

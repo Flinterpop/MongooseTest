@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\source_web\\MongooseTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B169EBF-0262-42C4-81F4-6F9363DFB7A6}|MongooseTest\\MongooseTest.vcxproj|C:\\source_web\\MongooseTest\\MongooseTest\\MongooseTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B169EBF-0262-42C4-81F4-6F9363DFB7A6}|MongooseTest\\MongooseTest.vcxproj|solutionrelative:MongooseTest\\MongooseTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongooseTest.cpp",
+              "DocumentMoniker": "C:\\source_web\\MongooseTest\\MongooseTest\\MongooseTest.cpp",
+              "RelativeDocumentMoniker": "MongooseTest\\MongooseTest.cpp",
+              "ToolTip": "C:\\source_web\\MongooseTest\\MongooseTest\\MongooseTest.cpp",
+              "RelativeToolTip": "MongooseTest\\MongooseTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-18T02:35:39.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
