@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B169EBF-0262-42C4-81F4-6F9363DFB7A6}|MongooseTest\\MongooseTest.vcxproj|C:\\source_web\\MongooseTest\\MongooseTest\\MongooseTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8B169EBF-0262-42C4-81F4-6F9363DFB7A6}|MongooseTest\\MongooseTest.vcxproj|solutionrelative:MongooseTest\\MongooseTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\source_web\\MongooseTest\\MongooseTest\\web_root\\webui.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MongooseTest\\web_root\\webui.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "webui.html",
+              "DocumentMoniker": "C:\\source_web\\MongooseTest\\MongooseTest\\web_root\\webui.html",
+              "RelativeDocumentMoniker": "MongooseTest\\web_root\\webui.html",
+              "ToolTip": "C:\\source_web\\MongooseTest\\MongooseTest\\web_root\\webui.html",
+              "RelativeToolTip": "MongooseTest\\web_root\\webui.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-19T01:58:24.061Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "MongooseTest\\MongooseTest.cpp",
               "ToolTip": "C:\\source_web\\MongooseTest\\MongooseTest\\MongooseTest.cpp",
               "RelativeToolTip": "MongooseTest\\MongooseTest.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAABwCwBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-18T02:35:39.565Z",
               "EditorCaption": ""
